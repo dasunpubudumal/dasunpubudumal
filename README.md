@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**dasunpubudumal/dasunpubudumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a kernel platform which essentially is a middleware port.
 - 🌱 I’m always learning.
 - 👯 I’m looking to collaborate on anything.

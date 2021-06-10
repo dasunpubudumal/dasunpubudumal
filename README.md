@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **dasunpubudumal/dasunpubudumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything.
 - 💬 Ask me about anything: I'll try my best to answer. Or else, we'll find the answers out, together.
 - 📫 How to reach me: Email me at dasun.15@cse.mrt.ac.lk
--->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunpubudumal&show_icons=true" alt="Dasun Pubudumal" /></p>
 <h3 align="left">Technologies</h3>

@@ -10,6 +10,7 @@
 <h3 align="left">Technologies</h3>
 
 <p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>

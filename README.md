@@ -16,8 +16,8 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/moven/moven-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>

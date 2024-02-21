@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Unibench](https://lk.linkedin.com/company/unibench), whose product is an aggregated payment hub.
 - 🌱 I’m always learning.
 - 👯 I’m looking to collaborate on anything.
 - 💬 Ask me about anything: I'll try my best to answer. Or else, we'll find the answers out, together.

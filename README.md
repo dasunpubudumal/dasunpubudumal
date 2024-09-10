@@ -3,7 +3,7 @@
 - 🌱 I’m always learning.
 - 👯 I’m looking to collaborate on anything.
 - 💬 Ask me about anything: I'll try my best to answer. Or else, we'll find the answers out, together.
-- 📫 How to reach me: Email me at dasun.15@cse.mrt.ac.lk
+- 📫 How to reach me: Email me at pubudumald@gmail.com
 
 <h3 align="left">Technologies</h3>
 
